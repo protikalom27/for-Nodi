@@ -1,2 +1,0 @@
-# for-Nodi
-tui duffer
